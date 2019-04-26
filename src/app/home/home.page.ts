@@ -36,7 +36,7 @@ export class HomePage {
         this.productFound = true;
 
       }, (err) => {
-        console.log("no hay nada");
+        console.log("no hay nada de nada");
       });
     }
 }
